@@ -8,6 +8,9 @@ DB_NAME = 'postgres'
 DB_USER = 'ilich'
 DB_PASS = '40910626'
 
+##Codigo
+##
+
 
 def verificar_usuario(username, password):
     # Conecta a PostgreSQL y verifica si el usuario existe
